@@ -15,10 +15,10 @@ app.listen(PORT, () => {
 
 // Bot Konfigürasyonu
 const BOT_CONFIG = {
-  host: 'SUNUCU_IP_ADRESI', // Oynayacağınız Minecraft sunucusunun IP adresi
+  host: 'oyna.blokya.com', // Oynayacağınız Minecraft sunucusunun IP adresi
   port: 25565,
-  username: 'ISTEDIGINIZ_NICK', // Kullanmak istediğiniz nick
-  version: '1.21.1',
+  username: 'qwerty452', // Kullanmak istediğiniz nick
+  version: '1.21.11',
   password: 'botafk123'
 }
 
